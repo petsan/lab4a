@@ -1,3 +1,15 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  margin: 0 auto;
+  max-width: 70;
+}
+
+article {
+  background-color: rgb(216,216,216);
+  border: 1px solid rgb(166,166,166);
+  text-align: center;
+  margin: 0 auto;
+}

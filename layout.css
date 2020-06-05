@@ -2,11 +2,6 @@ body{
   width: 480px;
 }
 
-header, nav, article, section, footer{
-  border: 1px solid rgb(166,166,166);
-  text-align: center;
-}
-
 header{
   background-color: red;
   width: 480px;
@@ -62,7 +57,6 @@ footer{
 @media (min-width: 768px){
   body{
     width: 960px;
-    margin: auto;
   }
 
   header, nav, article, section, footer{
