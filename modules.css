@@ -1,0 +1,9 @@
+header, nav, article, section, footer {
+  text-align: center;
+}
+
+@media only screen and (min-width:480px){
+  header, nav, article, section, footer {
+    display: inline-block;
+  }
+}
